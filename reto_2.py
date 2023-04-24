@@ -14,9 +14,6 @@ year = 2022
 holidays = ['01/06', '04/01', '12/25'] # formato MM/DD
 
 
-
-dates = ['2022-01-06', '2022-04-01', '2022-12-25']
-
 def count_hours(year, holidays):
     dates = []
     for n in holidays:
